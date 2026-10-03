@@ -28,7 +28,7 @@ The application provides feedback and has a next button to move to the next stat
 After all the questions have been answered the user receives the overall score
 And gets the option to play the quiz again
 # Screenshots
-Screenshot_20260928_025034.png
-Screenshot_20260928_025254.png
-Screenshot_20260928_052635.png
+![Quiz Screen](Screenshot_20260928_025034.png)
+![Different Question Screen](Screenshot_20260928_025254.png)
+![Feedback Screen](Screenshot_20260928_052635.png)
 
