@@ -27,3 +27,8 @@ The user gets a hack statement with 2 options to choose from Hack(True) or Myth(
 The application provides feedback and has a next button to move to the next statement
 After all the questions have been answered the user receives the overall score
 And gets the option to play the quiz again
+# Screenshots
+Screenshot_20260928_025034.png
+Screenshot_20260928_025254.png
+Screenshot_20260928_052635.png
+
