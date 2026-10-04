@@ -26,9 +26,17 @@ The application starts with a welcome screen where the user can press start to b
 The user gets a hack statement with 2 options to choose from Hack(True) or Myth(False)
 The application provides feedback and has a next button to move to the next statement
 After all the questions have been answered the user receives the overall score
+Get the review of your questions and answers
 And gets the option to play the quiz again
 # Screenshots
+# Welcome Screen
+![Welcome Screen](Screenshot_20260928_055605.png)
+# Quiz Screen
 ![Quiz Screen](Screenshot_20260928_025034.png)
+# Question Screen
 ![Different Question Screen](Screenshot_20260928_025254.png)
+# Feedback Screen
 ![Feedback Screen](Screenshot_20260928_052635.png)
+# Review Screen
+![Review Screen](Screenshot_20260928_055809.png)
 
